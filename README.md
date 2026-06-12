@@ -1,12 +1,11 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+<img width="1200" height="475" alt="GHBanner" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2li3HM3lY9YeJy4FXqXdxZqbQZrLQibYB0MfKWJ9a5zYEJbfIrGWAdDlCICaGplPfHSK2E8BfmTG5Iw-LngiU_Lf6YZGfENRjo33WCIWs&s=10" />
 </div>
 
-# Run and deploy your AI Studio app
+# Run and deploy your PEDPRO
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/02e96d9f-3cb3-46a5-804f-8677472c4326
 
 ## Run Locally
 
