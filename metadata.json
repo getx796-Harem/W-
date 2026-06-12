@@ -1,0 +1,6 @@
+{
+  "name": "Digital Store & Code Auto-Delivery Hub",
+  "description": "An e-commerce storefront with Google & Discord authentication, featuring automatic stock key/code delivery, category management, and a complete order tracking admin panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
